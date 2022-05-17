@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login&amp;SignUp_Design</string>
+    <string name="main_title">Welcome \n To Ui Lover \n Chanel</string>
+    <string name="main_sub_title">Download all the designs \n available on the UiLover channel for free</string>
+    <string name="description">ContentDescription</string>
+    <string name="title_name">Name</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="title_email">Email</string>
+    <string name="title_password">Password</string>
+    <string name="hint_password">Enter Your Password</string>
+    <string name="btn_text_sign_up">Sign Up</string>
+</resources>
